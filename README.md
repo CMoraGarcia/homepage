@@ -17,9 +17,9 @@ Nutrients, Vol. 11, No. 3, February 2019.
 3. Can Benefits from Malaria Eradication be Increased? Evidence from Costa Rica<br/>
 Economic Development and Cultural Change, Vol. 66, No. 3, pp. 585-628, April 2018. 
 
-<a href="javascript:void();" onclick="toggle_visibility('foo_fl');"> [+abstract]</a>
+<a href="javascript:void();" onclick="toggle_visibility('text');"> [+abstract]</a>
 
-<div id="foo_fl" style="display: block;"> <div align="justify">Something something.</div></div>
+<p id="text" style="display:block;"> <div align="justify">Something something.</p>
 
 ### Working Papers
 
