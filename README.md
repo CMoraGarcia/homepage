@@ -1,3 +1,15 @@
+<script type="text/javascript">
+<!--
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'none')
+          e.style.display = 'block';
+       else
+          e.style.display = 'none';
+    }
+//-->
+</script>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/CMoraGarcia/CMoraGarcia.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -20,15 +32,3 @@ Economic Development and Cultural Change, Vol. 66, No. 3, pp. 585-628, April 201
 ### Working Papers
 
 1. Primary Health Care and Mortality: Evidence from Costa Rica (with Madeline Pesec and Andrea Prado)
-
-<script type="text/javascript">
-<!--
-    function toggle_visibility(id) {
-       var e = document.getElementById(id);
-       if(e.style.display == 'none')
-          e.style.display = 'block';
-       else
-          e.style.display = 'none';
-    }
-//-->
-</script>
