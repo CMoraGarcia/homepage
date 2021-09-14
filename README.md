@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/CMoraGarcia/CMoraGarcia.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Claudio is Senior Researcher at [INCAE Business School](https://www.incae.edu/es/inicio), lecturer for the [Economics Department](https://economia.ucr.ac.cr/es/inicio) and Researcher for the [Instituto de Investigaciones en Ciencias Económicas](https://iice.ucr.ac.cr) at the [University of Costa Rica](https://www.ucr.ac.cr). His research is on Health, Labor and Development Economics focusing on experimental situations in Latin America. Through his work, he analyzed malaria eradication and primary care attention in Costa Rica, participation in an employment subsidy in Chile and nutrition labelling in Colombia. He is also an international consultant for United Nations and IADB. He received his PhD in Economics from [PUC Chile](https://economia.uc.cl). 
 
 ### Publications
 
