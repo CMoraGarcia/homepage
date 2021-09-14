@@ -17,8 +17,8 @@ Nutrients, Vol. 11, No. 3, February 2019.
 3. [Can Benefits from Malaria Eradication be Increased? Evidence from Costa Rica](https://www.journals.uchicago.edu/doi/10.1086/695880)<br/>
 Economic Development and Cultural Change, Vol. 66, No. 3, pp. 585-628, April 2018. 
 
-<a href="javascript:void();" onclick="toggle_visibility('text');"> [+abstract]</a>
-<div id="text" style="display: block;"> <div align="justify">A textbook is a book containing a comprehensive compilation of content in a branch of study with the intention of explaining it. Textbooks are produced to meet the needs of educators, usually at educational institutions. Schoolbooks are textbooks and other books used in schools.[1][2] Today, many textbooks are published in both print and digital formats.</div></div>
+<a href="#" onclick="toggle_visibility('foo');">Click here to toggle visibility of element #foo</a>
+<div id="foo">This is foo</div>
 
 ### Working Papers
 
