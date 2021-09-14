@@ -8,8 +8,8 @@ You can use the [editor on GitHub](https://github.com/CMoraGarcia/CMoraGarcia.gi
 _The Review of Economics and Statistics_  
 Featured in: [Diario Financiero](https://www.df.cl/noticias/internacional/economia/subsidio-al-empleo-joven-probabilidad-de-adoptarlo-aumenta-de-la-mano/2021-04-30/181140.html), [La Tercera](https://www.latercera.com/opinion/noticia/difusion-de-la-informacion-de-los-programas-sociales/62WVKMK4DNBPBOT2ZBSI27KZQI/)  
 
-<a href="#" onclick="toggle_visibility('foo');">[abstract]</a>
-<div id="foo">This paper studies peer effects in the adoption of a Youth Employment Subsidy in Chile since its inception. We study the effects that former classmates' and coworkers' adoption has on one's adoption. Identification comes from discontinuities in the assignment rule that allow us to construct valid instrumental variables for peers' adoption. Using a comprehensive set of administrative records, we find that classmates and, especially, coworkers play a significant role in the adoption of the subsidy. Peer effects are determined during the early stages of the program's implementation and vary by network characteristics and the strength of network ties.</div>
+<a href="javascript:void();" onclick="toggle_visibility('foo');"> [abstract]</a>
+<p> <div id="foo_fl" style="display:none"> <div align="justify">This paper studies peer effects in the adoption of a Youth Employment Subsidy in Chile since its inception. We study the effects that former classmates' and coworkers' adoption has on one's adoption. Identification comes from discontinuities in the assignment rule that allow us to construct valid instrumental variables for peers' adoption. Using a comprehensive set of administrative records, we find that classmates and, especially, coworkers play a significant role in the adoption of the subsidy. Peer effects are determined during the early stages of the program's implementation and vary by network characteristics and the strength of network ties.</div></div></p>
 
 2. [The effect of randomly providing Nutri-Score information on actual purchases in Colombia](https://www.mdpi.com/2072-6643/11/3/491) (with Jeremy Chi-Ying and Luisa Tovar)<br />
 Nutrients, Vol. 11, No. 3, February 2019.
@@ -21,14 +21,13 @@ Economic Development and Cultural Change, Vol. 66, No. 3, pp. 585-628, April 201
 
 1. Primary Health Care and Mortality: Evidence from Costa Rica (with Madeline Pesec and Andrea Prado)
 
-<script type="text/javascript">
-<!--
-    function toggle_visibility(id) {
-       var e = document.getElementById(id);
-       if(e.style.display == 'none')
-          e.style.display = 'block';
-       else
-          e.style.display = 'none';
-    }
-//-->
-</script>
+    <!-- SCRIP TO SHOW AND HIDE ABSTRACT -->
+    <script type="text/javascript">
+	    function toggle_visibility(id) {
+	       var e = document.getElementById(id);
+	       if(e.style.display == 'none')
+	          e.style.display = 'block';
+	       else
+	          e.style.display = 'none';
+	    }
+	  </script>
