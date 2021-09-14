@@ -3,11 +3,11 @@
 Claudio is Senior Researcher at [INCAE Business School](https://www.incae.edu/es/inicio), lecturer for the [Economics Department](https://economia.ucr.ac.cr/es/inicio) and Researcher for the [Instituto de Investigaciones en Ciencias Económicas](https://iice.ucr.ac.cr) at the [University of Costa Rica](https://www.ucr.ac.cr). His research is on Health, Labor and Development Economics focusing on experimental situations in Latin America. Through his work, he analyzed malaria eradication and primary care attention in Costa Rica, participation in an employment subsidy in Chile and nutrition labelling in Colombia. He is also an international consultant for United Nations and IADB. He received his PhD in Economics from [PUC Chile](https://economia.uc.cl). 
 
 ### Contact 
- INCAE Business School<br />
-  Campus Walter Kissling Gam, La Garita<br />
- Alajuela, Costa Rica.<br />
- Phone: +506 2437 2200<br />
- Email: claudio.mora [at] incae.edu<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INCAE Business School<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Campus Walter Kissling Gam, La Garita<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alajuela, Costa Rica.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phone: +506 2437 2200<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: claudio.mora [at] incae.edu<br />
 
 ## Publications
 
