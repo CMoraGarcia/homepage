@@ -25,7 +25,10 @@ Economic Development and Cultural Change, Vol. 66, No. 3, pp. 585-628, April 201
 
 ### Working Papers
 
-1. Primary Health Care and Mortality: Evidence from Costa Rica (with Madeline Pesec and Andrea Prado)
+1. Primary Health Care and Mortality: Evidence from Costa Rica (with Madeline Pesec and Andrea Prado) <br />
+<a href="javascript:void();" onclick="toggle_visibility('foo_phc');"> [abstract]</a>
+
+<p> <div id="foo_phc" style="display:none"> <div align="justify">Despite its importance in health system planning, the contribution of primary health care (PHC) is difficult to evaluate, especially in low and middle-income countries. This paper uses variation in the timing of implementation of the 1995 Costa Rican primary health care (PHC) reform to examine its long- term effect on mortality. We find that within eleven years after opening a Health Area, age-adjusted mortality rates significantly decreased by 9 percent. The effect is higher among adults older than 65 years and in cardiovascular-related causes of death, especially among clinics not managed by the government. A potential mechanism is better access to health services. These results highlight that the pursuit of universal health care by strengthening PHC can have long-lasting and significant effects on mortality.</div></div></p>
 
 
 <script type="text/javascript">
