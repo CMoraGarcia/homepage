@@ -19,7 +19,7 @@ Economic Development and Cultural Change, Vol. 66, No. 3, pp. 585-628, April 201
 
 <a href="javascript:void();" onclick="toggle_visibility('text');"> [+abstract]</a>
 
-<p id="text" style="display:block;"> <div align="justify">Something something.</p>
+<div id="text" style="display:block;"> <div align="justify">Something something.</div>
 
 ### Working Papers
 
