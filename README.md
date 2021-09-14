@@ -17,6 +17,18 @@ Nutrients, Vol. 11, No. 3, February 2019.
 3. [Can Benefits from Malaria Eradication be Increased? Evidence from Costa Rica](https://www.journals.uchicago.edu/doi/10.1086/695880)<br/>
 Economic Development and Cultural Change, Vol. 66, No. 3, pp. 585-628, April 2018. 
 
+<script type="text/javascript">
+<!--
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+    }
+//-->
+</script>
+
 <a href="#" onclick="toggle_visibility('foo');">Click here to toggle visibility of element #foo</a>
 <div id="foo">This is foo</div>
 
