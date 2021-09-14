@@ -1,8 +1,15 @@
-## Claudio A. Mora García
+# Claudio A. Mora García
 
 Claudio is Senior Researcher at [INCAE Business School](https://www.incae.edu/es/inicio), lecturer for the [Economics Department](https://economia.ucr.ac.cr/es/inicio) and Researcher for the [Instituto de Investigaciones en Ciencias Económicas](https://iice.ucr.ac.cr) at the [University of Costa Rica](https://www.ucr.ac.cr). His research is on Health, Labor and Development Economics focusing on experimental situations in Latin America. Through his work, he analyzed malaria eradication and primary care attention in Costa Rica, participation in an employment subsidy in Chile and nutrition labelling in Colombia. He is also an international consultant for United Nations and IADB. He received his PhD in Economics from [PUC Chile](https://economia.uc.cl). 
 
-### Publications
+### Contact 
+ INCAE Business School<br />
+  Campus Walter Kissling Gam, La Garita<br />
+ Alajuela, Costa Rica.<br />
+ Phone: +506 2437 2200<br />
+ Email: claudio.mora [at] incae.edu<br />
+
+## Publications
 
 1. [Peer Effects in the Adoption of a Youth Employment Subsidy](https://direct.mit.edu/rest/article/doi/10.1162/rest_a_01047/100988/Peer-Effects-in-the-Adoption-of-a-Youth-Employment) (with [Tomás Rau](https://sites.google.com/site/tomasraubinder/)).<br />
 _The Review of Economics and Statistics_<br />
@@ -24,7 +31,7 @@ _Economic Development and Cultural Change, Vol. 66, No. 3, pp. 585-628, April 20
 
 <p> <div id="foo_edcc" style="display:none"> <div align="justify">The estimated benefits of malaria eradication have been very different in terms of human capital accumulation. This paper quantifies the impact of malaria eradication in Costa Rica and explores whether pre-campaign regional characteristics can improve or damage the benefits of a health campaign. There are several results. First, using difference in differences I find that years of education of men and women increased in response to the eradication campaign but that only wages of males increased. Results are robust. Second, worse conditions in the school system and more child employment displaced schooling. Hence, health benefits may not translate into educational gains when the school system characteristics are bad or when the child labor market provides a better investment opportunity than schooling. Third, combining empirical evidence with a simple model, the increase in schooling cannot solely explain the increase in the income of men; however, health improvements explain most of the increase. Finally, the point estimates show that human capital gains were almost completely eliminated when a shortage of funding for eradication led to a resurgence of malaria; this emphasizes the fragility of the estimated benefits.</div></div></p>
 
-### Working Papers
+## Working Papers
 
 1. Primary Health Care and Mortality: Evidence from Costa Rica (with Madeline Pesec and [Andrea Prado](https://www.andreamprado.com))<br />
 Featured in: [En la Academia](https://vinv.ucr.ac.cr/es/multimedia/rendimiento-de-la-atencion-primaria-en-salud-en-costa-rica)<br />
