@@ -18,7 +18,7 @@ Nutrients, Vol. 11, No. 3, February 2019.
 Economic Development and Cultural Change, Vol. 66, No. 3, pp. 585-628, April 2018. 
 
 <a href="javascript:void();" onclick="toggle_visibility('text');"> [+abstract]</a>
-<div id="text" style="display: block;"> <div align="justify">We study a regulation in Chile that mandates warning labels on products whose sugar or calorie concentration exceeds certain thresholds. We document an overall decrease in sugar and calorie intake of 7-9%. To reveal mechanisms, we focus on breakfast cereal. On the demand side, consumers substitute from labeled to unlabeled products, a pattern that is mostly driven by products which consumers mistakenly believed to be healthy. On the supply side, we find substantial reformulation of products and bunching at the thresholds. We develop and estimate an equilibrium model of demand for food and firms' pricing and nutritional choices. We find that food labels increase consumer welfare by 3.8% of total expenditure, and that these effects are enhanced by firms' responses. We then use the model to study alternative policy designs. Under optimal policy thresholds, food labels and sugar taxes generate similar gains in consumer welfare but food labels benefit the poor relatively more.</div></div>
+<div id="text" style="display: block;"> <div align="justify">A textbook is a book containing a comprehensive compilation of content in a branch of study with the intention of explaining it. Textbooks are produced to meet the needs of educators, usually at educational institutions. Schoolbooks are textbooks and other books used in schools.[1][2] Today, many textbooks are published in both print and digital formats.</div></div>
 
 ### Working Papers
 
