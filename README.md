@@ -18,7 +18,6 @@ Nutrients, Vol. 11, No. 3, February 2019.
 Economic Development and Cultural Change, Vol. 66, No. 3, pp. 585-628, April 2018. 
 
 <a href="javascript:void();" onclick="toggle_visibility('text');"> [+abstract]</a>
-
 <div id="text" style="display:block;"> <div align="justify">Something something.</div>
 
 ### Working Papers
