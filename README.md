@@ -4,9 +4,6 @@ Claudio is Senior Researcher at [INCAE Business School](https://www.incae.edu/es
 <address>
   INCAE Business School<br> Campus Walter Kissling Gam, La Garita<br> Alajuela, Costa Rica
 </address>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INCAE Business School<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Campus Walter Kissling Gam, La Garita<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alajuela, Costa Rica.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phone: +506 2437 2200<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: claudio.mora [at] incae.edu<br />
 
