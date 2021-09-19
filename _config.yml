@@ -15,10 +15,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 
+title: "Claudio A. Mora García"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Website of Claudio A. Mora García, Senior Researcher at INCAE Business School.
+  "Website of Claudio A. Mora García, Senior Researcher at INCAE Business School."
 twitter_username: CMoraGarcia
 github_username: username
 minimal_mistakes_skin: default
