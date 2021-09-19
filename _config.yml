@@ -23,7 +23,6 @@ twitter_username: CMoraGarcia
 github_username: username
 minimal_mistakes_skin: default
 search: true
-logo: #"/assets/images/EmbeddedImage.jpg"
 
 # Build settings
 markdown: kramdown
@@ -61,8 +60,8 @@ plugins:
 
 author:
   name   : "Claudio A. Mora-García"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/EmbeddedImage.jpg"
+  bio    : "Senior Researcher at INCAE Business School."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
