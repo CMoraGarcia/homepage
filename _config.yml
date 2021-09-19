@@ -57,6 +57,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-titles-from-headings
 
 author:
   name   : "Claudio A. Mora-García"
